@@ -103,7 +103,7 @@ void RolePlayingGame::initializePotions(unsigned int seed, unsigned int numPotio
     
 void RolePlayingGame::initializeHero(unsigned int seed)
 {
-/*	bool validSpace = false;
+	bool validSpace = false;
 
 	while (validSpace==false) {
 	
@@ -123,7 +123,7 @@ void RolePlayingGame::initializeHero(unsigned int seed)
 
 	} 
 
-	}*/
+	}
 }
         
 vector<int> RolePlayingGame::locateCreature(Creature* creature)

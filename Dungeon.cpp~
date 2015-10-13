@@ -123,6 +123,6 @@ void Dungeon::readInMaze(string fileName)
 	/*for (int j=0;j<worldRows;++j){
 	for (int i=0;i<worldColumns;++i)
 		cout << maze[j][i];
-	cout << endl;
-	}*/
+	cout << endl;*/
+	}
 }
